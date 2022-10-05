@@ -17,6 +17,7 @@ in
 mkShell {
   buildInputs = [
     python-with-my-packages
+    pandoc
     jupyter
   ];
 
