@@ -17,11 +17,11 @@ I wrote some code to make the plots and the table by calculation the variogram. 
 
 Here is the table of the data used for plotting
 
-![Table for directional semivariograms](../figs/table-directional.png)
+![Table for directional semivariograms](../../figs/table-directional.png)
 
 and here is the plot of the semivariogram for each direction.
 
-![Plot for the directional semivariograms](../figs/directional.pdf)
+![Plot for the directional semivariograms](../../figs/directional.pdf)
 
 From the semivariograms, it is possible to assume that the values are increasing in the horizontal direction ($0^o$), since the semivariogram has higher values, even for smaller lags. On the other hand, fit the vertical direction ($90^o$) the the values increase much less, even less for smaller lag values. Those two observations lead to the conclusion that there is anisothrophy in the horizontal direction.
 
@@ -31,8 +31,8 @@ I decided to use a different methodology for the omnidirectional pooling of pair
 
 Here is the table generated from the data:
 
-![Table for omnidirectional semivariograms](../figs/table-omnidirectional.png)
+![Table for omnidirectional semivariograms](../../figs/table-omnidirectional.png)
 
 Here is the plot generated for the table:
 
-![Plot for the omnidirectional semivariograms](../figs/omnidirectional.pdf)
+![Plot for the omnidirectional semivariograms](../../figs/omnidirectional.pdf)
